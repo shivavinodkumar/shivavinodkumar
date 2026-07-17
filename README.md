@@ -6,8 +6,6 @@
 
 </div>
 
-<img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/qmsht.gif?raw=true" width="400" height="350" />
-
 ### 📌 About Me
 
 🚀 **Full-Stack Developer** working with **React.js, Next.js, React Native, and Node.js**, building web and mobile apps with clean, efficient code.
@@ -45,32 +43,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🌐 Web Development
-
-| Project | Tech Stack | Link |
-|--------|-----------|------|
-| **SlateSite** | Next.js, TypeScript, Firebase | [🔗 Live](https://slatesite-19e5f.web.app/) |
-| **Krazy Canucks Website** | React, Tailwind CSS, Three.js | [🔗 Live](https://krazy-canucks.web.app/) |
-| **HelloAIHub** | Next.js, Tailwind CSS | [🔗 Live](https://helloaihub.vercel.app/) |
-| **Empty-Moon-Song Website** | Next.js, Tailwind CSS, Firebase | [🔗 Live](https://gangeshwarmahadev.vercel.app/) |
-
-#### 📱 Mobile Development
-
-| Project | Tech Stack | Link |
-|--------|-----------|------|
-| **AgriDrone Technician App** | React Native, Firebase Firestore | [🔗 GitHub](https://github.com/shiva24082/AgriDroneTechnicianApp) |
-| **AgriDrone Sales Aggregator** | React Native, Firestore | [🔗 GitHub](https://github.com/shiva24082/AgriDroneSalesAggregatorApp) |
-
-#### 🖥️ Desktop Applications
-
-| Project | Tech Stack | Link |
-|--------|-----------|------|
-| **Inventory Management System** | C# .NET, SQL Server | [🔗 GitHub](https://github.com/shiva24082/Inventory-Management-System) |
-
----
-
 ### 💼 Experience
 
 - 🏢 **Full Stack Development Intern** @ Cognifyz Technologies *(May – Jun 2026)*
@@ -83,18 +55,6 @@
 ### 🏅 Certifications
 
 ☁️ **AWS — 16 Certifications** (Cloud, AI/ML, Security, Databases, Prompt Engineering)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiva24082&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva24082&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -154,4 +114,3 @@
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" width="64"></a>
 <a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" width="64"></a>
-
