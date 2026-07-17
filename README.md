@@ -116,3 +116,9 @@
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" width="64"></a>
 <a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" width="64"></a>
+
+---
+
+### ⚖️ Credits & Disclaimers
+
+*All third-party tools, icons, badges, widgets, and images used in this profile belong to their respective creators and owners. No copyright infringement is intended.*
