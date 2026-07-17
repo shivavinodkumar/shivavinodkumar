@@ -23,25 +23,25 @@
 ### 🛠️ Tech Stack
 
 #### 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs&theme=dark)](https://github.com/shiva24082)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs&theme=dark)](https://github.com/shivavinodkumar)
 
 #### 🎨 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,html,css&theme=dark)](https://github.com/shiva24082)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,html,css&theme=dark)](https://github.com/shivavinodkumar)
 
 #### 🔧 Backend Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://github.com/shiva24082)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://github.com/shivavinodkumar)
 
 #### 📱 Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=react,androidstudio&theme=dark)](https://github.com/shiva24082)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio&theme=dark)](https://github.com/shivavinodkumar)
 
 #### ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,vercel,docker,git,webpack&theme=dark)](https://github.com/shiva24082)
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,vercel,docker,git,webpack&theme=dark)](https://github.com/shivavinodkumar)
 
 #### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark)](https://github.com/shiva24082)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark)](https://github.com/shivavinodkumar)
 
 #### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github&theme=dark)](https://github.com/shiva24082)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github&theme=dark)](https://github.com/shivavinodkumar)
 
 ---
 
@@ -65,7 +65,7 @@
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](http://www.linkedin.com/in/shiva-vinodkumar)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/shiva24082)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/shivavinodkumar)
 [![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://shiva-vinodkumar.web.app/)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/shiva_vinodkumar)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shivavinodkumar)
