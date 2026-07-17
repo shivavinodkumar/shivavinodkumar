@@ -6,6 +6,8 @@
 
 </div>
 
+<img align="right" src="profile.jpg" width="300" style="border-radius: 15px;" />
+
 ### 📌 About Me
 
 🚀 **Full-Stack Developer** working with **React.js, Next.js, React Native, and Node.js**, building web and mobile apps with clean, efficient code.
